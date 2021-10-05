@@ -55,3 +55,17 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
+#################################################################################################################################################################
+
+APIs have been on the rise for many years. They’re an essential component of the data-driven ecosystem, as well as CI/CD, which gets increasingly popular with each passing year.
+Consider these predictions on digital transformation from ZDNet, about the trends that will shape the digital landscape in 2021.
+Digital Transformation Trends For 2021:
+
+The digital-ready culture
+Democratization of innovation
+Composable enterprise
+Automation
+API Security
+Microservices
+The data divide
+Data analytics
